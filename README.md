@@ -1,4 +1,3 @@
 # demo 2
 
-
-som etext
+some text
